@@ -1,2 +1,2 @@
-# devops-tutorial
+# Devops
 Devops Tutorials
